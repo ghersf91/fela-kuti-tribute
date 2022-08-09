@@ -1,0 +1,70 @@
+#main {
+    background-color: #d3d3d3;
+}
+
+#title {
+    font-family: "Yanone Kaffeesatz";
+    text-align: center;
+    font-size: 70px;
+    padding-top: 40px;
+}
+
+#subtitle {
+    font-family: "Yanone Kaffeesatz";
+    font-size: 30px;
+    text-align: center;
+}
+
+#image {
+    margin: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    padding-top: 20px;
+}
+
+#img-div {
+    background-color: white;
+    width: 900px;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    text-align: center;
+    font-size: 15px;
+    text-justify: center;
+    padding-bottom: 18px;
+}
+
+h3 {
+    font-family: "Yanone Kaffeesatz";
+    font-size: 20px;
+    text-align: center;
+}
+
+#tribute-info {
+    font-family: "Yanone Kaffeesatz";
+    font-size: 18px;
+    justify-content: center;
+    max-width: 100%;
+    height: auto;
+}
+
+li {
+    padding: 10px;
+}
+
+#quote {
+    font-family: "Yanone Kaffeesatz";
+    font-size: 18px;
+    text-align: center;
+}
+
+#wikipedia {
+    font-family: "Yanone Kaffeesatz";
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 10px;
+}
